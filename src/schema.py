@@ -53,4 +53,3 @@ airplanes_schema = AirplaneSchema(many=True)
 
 airplane_type_schema = AirplaneTypeSchema()
 airplane_types_schema = AirplaneTypeSchema(many=True)
-
